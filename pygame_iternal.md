@@ -7,9 +7,9 @@ Untitled pygame project
 
 ## 📚 Структура
 - [Задачи](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
-- [Геймдизайн](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#%D0%B3%D0%B5%D0%B9%D0%BC%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD)
-- [Левелдизайн](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#%D0%BB%D0%B5%D0%B2%D0%B5%D0%BB%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD)
-- [Дизайн тайлов](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2)
+- [Геймдизайн](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#-%D0%B3%D0%B5%D0%B9%D0%BC%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD)
+- [Левелдизайн](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#-%D0%BB%D0%B5%D0%B2%D0%B5%D0%BB%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD)
+- [Дизайн тайлов](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2)
 - Бэкенд:
   - [Уровни](https://github.com/PlakIA/pygame-resources/blob/master/pygame_iternal.md#%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B8)
 
