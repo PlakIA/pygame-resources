@@ -38,7 +38,7 @@ Untitled pygame project
 <details>
 <summary>Коцепт-план первого этажа</summary>
   
-![Коцепт-план первого этажа](https://github.com/PlakIA/pygame-resources/blob/8cc521b305e00315b415075ad5a55a7611ed49a4/docs-resources/NVIDIA_Share_0qIfJ7E5Lu.png)
+![Коцепт-план первого этажа](https://github.com/PlakIA/pygame-resources/blob/d871d09b56135a5b743909c981f53a61befa4bc1/docs-resources/concept%20plan%201.png)
 </details>
 
 
