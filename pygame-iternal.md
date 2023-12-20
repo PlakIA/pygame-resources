@@ -36,16 +36,23 @@ Untitled pygame project
 Ускоренный переход с первого этажа на третий не предусмотрен
 
 <details>
-<summary>Коцепт-план первого этажа</summary>
+<summary>Коцепт первого этажа</summary>
   
 ![Коцепт-план первого этажа](https://github.com/PlakIA/pygame-resources/blob/d871d09b56135a5b743909c981f53a61befa4bc1/docs-resources/concept%20plan%201.png)
+![Коцепт-арт первого этажа](https://github.com/PlakIA/pygame-resources/blob/c5847f021d04d25b91ea085617517950dda07b19/docs-resources/map%201.png)
+![1-1](https://github.com/PlakIA/pygame-resources/blob/c5847f021d04d25b91ea085617517950dda07b19/docs-resources/1-1.png)
+![1-2](https://github.com/PlakIA/pygame-resources/blob/c5847f021d04d25b91ea085617517950dda07b19/docs-resources/1-2.png)
 </details>
 
 
 ## 🖼 Дизайн тайтлов
-- Размерность тайтлов: `? (предположительно 64x64)`
+- Размер тайтлов: `64x64`
 
-TODO: `Тайлисты, отдельные тайтлы с описанием`
+![Вспомогательные тайтлы](https://github.com/PlakIA/pygame-resources/blob/d180b149201b317f56cf90bbfe88a0f84034ecba/docs-resources/tiles-0.png)
+Вспомогательные тайтлы
+
+![Линолеумы](https://github.com/PlakIA/pygame-resources/blob/d180b149201b317f56cf90bbfe88a0f84034ecba/docs-resources/tiles-1.png)
+Линолеумы
 
 
 ## 💻 Бэкедн
